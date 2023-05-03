@@ -11,6 +11,14 @@
                     <a href="sign-up.php" title="Sign Up">Sign Up</a>
                 </li>
                 <li>
+                    <a href="sign-up.php" title="Sign Up">Sign Up</a>
+                </li>     <li>
+                    <a href="sign-up.php" title="Sign Up">Sign Up</a>
+                </li>
+                <li>
+                    <a href="sign-up.php" title="Sign Up">Sign Up</a>
+                </li>
+                <li>
                     <a href="simple-crud.php" title="Simple CRUD">Simple CRUD</a>
                 </li>
                 <li>
