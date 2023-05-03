@@ -2,7 +2,7 @@
     <main class="index">
         <div class="index-content font-0">
             <h1 class="index-heading">Hello.</h1>
-            <h2 class="index-subheading">billy</h2>
+            <h2 class="index-subheading">adasdas</h2>
             <ul class="index-options">
                 <li>
                     <a href="log-in.php" title="Log In">Log In</a>
