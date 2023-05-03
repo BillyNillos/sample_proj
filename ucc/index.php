@@ -13,6 +13,12 @@
                 <li>
                     <a href="simple-crud.php" title="Simple CRUD">Simple CRUD</a>
                 </li>
+                <li>
+                    <a href="simple-crud.php" title="Simple CRUD">Simple CRUD</a>
+                </li>
+                <li>
+                    <a href="simple-crud.php" title="Simple CRUD">Simple CRUD</a>
+                </li>
             </ul>
         </div>
     </main>
