@@ -8,7 +8,7 @@
             }
         ?>
         <div class="dashboard-content font-0">
-            <h1 class="dashboard-heading">Welcome <span><?= $user; ?>!</span></h1>
+            <h1 class="dashboard-heading">karl edwards <span><?= $user; ?>!</span></h1>
         </div>
     </main>
 <?php include('footer.php'); ?>
