@@ -5,7 +5,7 @@
             <h2 class="index-subheading">adasdas</h2>
             <ul class="index-options">
                 <li>
-                    <a href="log-in.php" title="Log In">Log In</a>
+                    <a href="log-in.php" title="Log In">sign up</a>
                 </li>
                 <li>
                     <a href="sign-up.php" title="Sign Up">Sign Up</a>
